@@ -1,0 +1,50 @@
+{
+  "PYTHON" : {
+    "title": "Python Developer",
+    "experience": "4 years",
+    "description": "I have been developing programs in Python for over four years academically and as a hobby. My experience includes: Data Processing and Analysis; using Numpy, Pandas, Geopandas, and Requests library; Geospatial Analysis; Image Processing; and Machine Learning.",
+    "projects": [
+      {
+        "image-processing" : {
+          "link": "git-hub-link",
+          "title": "Image Processing",
+          "description": "Using Filters to Process Images"
+        },
+        "geospatial-analysis": {
+          "link": "git-hub-link",
+          "title": "Geospatial Analysis",
+          "description": "Using Machine Learning to Predict Soil Moisture with CYGNSS"
+        },
+        "requests": {
+          "link": "git-hub-link",
+          "title": "Requests Library",
+          "description": "Utilizing Python's Requests Library to Create a Functional Resume Builder"
+        }
+      }
+    ]
+  },
+  "CSS": {
+    "title": "CSS and HTML",
+    "experience": "4 years",
+    "description": "I have been developing programs in Python for over four years academically and as a hobby. My experience includes: Data Processing and Analysis; using Numpy, Pandas, Geopandas, and Requests library; Geospatial Analysis; Image Processing; and Machine Learning.",
+    "projects": [
+      {
+        "image-processing": {
+          "link": "git-hub-link",
+          "title": "Image Processing",
+          "description": "Using Filters to Process Images"
+        },
+        "geospatial-analysis": {
+          "link": "git-hub-link",
+          "title": "Geospatial Analysis",
+          "description": "Using Machine Learning to Predict Soil Moisture with CYGNSS"
+        },
+        "requests": {
+          "link": "git-hub-link",
+          "title": "Requests Library",
+          "description": "Utilizing Python's Requests Library to Create a Functional Resume Builder"
+        }
+      }
+    ]
+  }
+}
